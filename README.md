@@ -1,16 +1,16 @@
-# academie
+# Academie
 
-TODO: Write a description here
+Libraire métier contenant le code de gestion d'un centre de formation
 
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
 
-   ```yaml
-   dependencies:
-     academie:
-       github: your-github-user/academie
-   ```
+```yaml
+dependencies:
+  academie:
+  github: JadeKharats/academie
+```
 
 2. Run `shards install`
 
@@ -20,15 +20,13 @@ TODO: Write a description here
 require "academie"
 ```
 
-TODO: Write usage instructions here
-
 ## Development
 
 TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/academie/fork>)
+1. Fork it (<https://github.com/JadeKharats/academie/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Jade D. Kharats](https://github.com/your-github-user) - creator and maintainer
+- [Jade D. Kharats](https://github.com/JadeKharats) - creator and maintainer
