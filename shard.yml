@@ -4,6 +4,13 @@ version: 0.1.0
 authors:
   - Jade D. Kharats <jade.kharats@gmail.com>
 
+description: |
+  Librairie de gestion d'un centre de formation
+
+repository: https://github.com/JadeKharats/academie
+homepage: https://github.com/JadeKharats/academie
+documentation: https://github.com/JadeKharats/academie/blob/master/README.md
+
 crystal: 0.32.1
 
 license: MIT
