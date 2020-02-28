@@ -1,3 +1,4 @@
+require "./academie/*"
 # Le module "Academie" permet d'avoir le métier autour d'un centre de formation
 #
 # ### Example
